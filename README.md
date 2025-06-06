@@ -1,8 +1,3 @@
----
-title: Brain–Computer Interface speller using SSVEP
-
----
-
 ### Brain Computer Interfaces: Fundamentals and Application: Final Project
 
 # Brain–Computer Interface speller using SSVEP
