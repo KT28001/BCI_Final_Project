@@ -60,6 +60,7 @@ Dataset: An open dataset for human SSVEPs in the frequency range of 1-60Hz [1]
 To type the wanted character, press ctrl-o and select the corresponding SSVEP frequencies to select the wanted row, and repect to select the wanted key.
 
 ## Demo Video
+https://github.com/user-attachments/assets/5ca935c1-ec01-46ff-a7ce-9acd72c7beea
 
 
 ## Validation
